@@ -13,7 +13,6 @@ A classical computer-vision pipeline for detecting road lane lines in images and
 
 - `P1.ipynb` - full pipeline with explanations and visuals.
 - `streamlit_app.py` - interactive UI for images and videos.
-- `outputs/` - generated outputs (created automatically).
 - `test_images/` - sample images.
 - `*.mp4` and `*.jpg` - sample videos and result assets.
 
